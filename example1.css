@@ -1,0 +1,15 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    background-color: aqua;
+}
+h1 {
+    font-size: larger;
+    color: brown;
+}
+p {
+    font-size: smaller; font-style: italic;
+}
+em {
+    font-style: italic;
+}
