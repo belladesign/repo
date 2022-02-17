@@ -1,0 +1,17 @@
+div{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+.one{
+  background: red;
+  transform: translateX(50%);
+}
+.two{
+  background: green;
+ transform: scaleX(0.5)
+}
+.three{
+  background: rebeccapurple;
+  transform: rotate;
+}
